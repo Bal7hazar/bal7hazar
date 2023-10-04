@@ -1,16 +1,29 @@
-### Hi there 👋
+## 🤖 Hi, I'm Bal7hazar 👋
 
-<!--
-**Bal7hazar/bal7hazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Smart contract developer @ [Carbonable](https://www.carbonable.io/)
+Mechanical engineer @ [Michelin](https://www.michelin.com/)
 
-Here are some ideas to get you started:
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/bal7hazar?style=social)](https://twitter.com/bal7hazar)
+[![GitHub Thaiane](https://img.shields.io/github/followers/bal7hazar?label=follow&style=social)](https://github.com/bal7hazar)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚒️ About me 🎮
+
+```cairo
+let mut dev: Dev = DevTrait::new(
+    pronouns: 'he' || 'his',
+    from: France,
+    age: 32,
+    crypto_since: 2020,
+    starknet_since: 2022,
+    code: array![cairo, python, js, ts, f77].span()
+);
+```
+
+## 📈 GitHub Stats 📊
+
+<a href="https://github.com/bal7hazar/bal7hazar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bal7hazar&hide=java,html,tex,vue,javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/bal7hazar/bal7hazar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bal7hazar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
