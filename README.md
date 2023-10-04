@@ -9,7 +9,7 @@ Mechanical engineer @ [Michelin](https://www.michelin.com/) 📅 2015 → 2022 �
 
 ## ⚒️ About me 🎮
 
-```cairo
+```rust
 let mut dev: Dev = DevTrait::new(
     pronouns: 'he' || 'his',
     from: France,
