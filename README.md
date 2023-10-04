@@ -22,7 +22,7 @@ let mut dev: Dev = DevTrait::new(
 
 ## 📈 GitHub Stats 📊
 
-[![Bal7hazar's GitHub code-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=bal7hazar&show_icons=true&theme=dark&line_height=27&count_private=true&langs_count=3&hide=html,javascript,css#gh-dark-mode-only)](https://github.com/bal7hazar)
+[![Bal7hazar's GitHub code-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=bal7hazar&show_icons=true&theme=dark&line_height=27&hide_progress=true&count_private=true&langs_count=3&hide=html,javascript,css#gh-dark-mode-only)](https://github.com/bal7hazar)
 [![Bal7hazar's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bal7hazar&show_icons=true&theme=dark&line_height=27#gh-dark-mode-only)](https://github.com/bal7hazar)
-[![Bal7hazar's GitHub code-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=bal7hazar&show_icons=true&theme=default&line_height=27&count_private=true&langs_count=3&hide=html,javascript,css#gh-light-mode-only)](https://github.com/bal7hazar)
+[![Bal7hazar's GitHub code-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=bal7hazar&show_icons=true&theme=default&line_height=27&hide_progress=true&count_private=true&langs_count=3&hide=html,javascript,css#gh-light-mode-only)](https://github.com/bal7hazar)
 [![Bal7hazar's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bal7hazar&show_icons=true&theme=default&line_height=27#gh-light-mode-only)](https://github.com/bal7hazar)
