@@ -1,5 +1,7 @@
 ## 🤖 Hi, I'm Bal7hazar 👋
 
+📅 2023 → 2023 🏛️ [zKorp](https://github.com/z-korp) 🏷️ Smart contract developer
+
 📅 2022 → 2023 🏛️ [Carbonable](https://www.carbonable.io/) 🏷️ Smart contract developer
 
 📅 2015 → 2022 🏛️ [Michelin](https://www.michelin.com/) 🏷️ Mechanical engineer
