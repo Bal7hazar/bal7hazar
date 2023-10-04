@@ -22,14 +22,7 @@ let mut dev: Dev = DevTrait::new(
 
 ## 📈 GitHub Stats 📊
 
-<a href="https://github.com/bal7hazar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bal7hazar&hide=java,html,tex,vue,javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/bal7hazar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bal7hazar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-[![Bal7hazar's GitHub code-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=bal7hazar&show_icons=true&theme=dark&line_height=27&count_private=true&langs_count=3#gh-dark-mode-only)](https://github.com/bal7hazar#gh-dark-mode-only)
+[![Bal7hazar's GitHub code-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=bal7hazar&show_icons=true&theme=dark&line_height=27&count_private=true&langs_count=3&hide=java,html,tex,vue,javascript,css#gh-dark-mode-only)](https://github.com/bal7hazar#gh-dark-mode-only)
 [![Bal7hazar's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bal7hazar&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/bal7hazar#gh-dark-mode-only)
-[![Bal7hazar's GitHub code-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=bal7hazar&show_icons=true&theme=default&line_height=27&count_private=true&langs_count=3#gh-light-mode-only)](https://github.com/bal7hazar#gh-light-mode-only)
+[![Bal7hazar's GitHub code-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=bal7hazar&show_icons=true&theme=default&line_height=27&count_private=true&langs_count=3&hide=java,html,tex,vue,javascript,css#gh-light-mode-only)](https://github.com/bal7hazar#gh-light-mode-only)
 [![Bal7hazar's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bal7hazar&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/bal7hazar#gh-light-mode-only)
