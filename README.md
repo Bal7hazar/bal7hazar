@@ -1,8 +1,8 @@
 ## 🤖 Hi, I'm Bal7hazar 👋
 
-Smart contract developer @ [Carbonable](https://www.carbonable.io/) 📅 2022 → 2023 🏷️
+📅 2022 → 2023 🏛️ [Carbonable](https://www.carbonable.io/) 🏷️ Smart contract developer
 
-Mechanical engineer @ [Michelin](https://www.michelin.com/) 📅 2015 → 2022 🏷️
+📅 2015 → 2022 🏛️ [Michelin](https://www.michelin.com/) 🏷️ Mechanical engineer
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/bal7hazar?style=social)](https://twitter.com/bal7hazar)
 [![GitHub Thaiane](https://img.shields.io/github/followers/bal7hazar?label=follow&style=social)](https://github.com/bal7hazar)
