@@ -9,6 +9,20 @@
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/bal7hazar?style=social)](https://twitter.com/bal7hazar)
 [![GitHub Thaiane](https://img.shields.io/github/followers/bal7hazar?label=follow&style=social)](https://github.com/bal7hazar)
 
+## 🏆 Achievements 🏅
+
+📅 09/2023 🥇 1st of the Dojo Game Jam first edition 🏷️ [zKnight](https://github.com/z-korp/zknight)
+
+📅 07/2023 🥇 1th in the Node Guardians CTF 📍 Paris
+
+📅 07/2023 🏅 Finalist of the Starknet Hacker House 📍 Paris 🏷️ [Pufu](https://github.com/carbonable-labs/pufu)
+
+📅 06/2023 🏆 Competitor in the first Pragma Hackathon 🏷️ [Explore](https://github.com/StarkExplore/Explore)
+
+📅 02/2023 🏅 Finalist of the Starknet Hacker House 📍 Tel-Aviv 🏷️ [Sybil Shield](https://github.com/carbonable-labs/sybil-shield)
+
+📅 02/2023 🏆 6th in the Starknet CC CTF 📍 Lisbon
+
 ## ⚒️ About me 🎮
 
 ```rust
