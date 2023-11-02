@@ -11,7 +11,9 @@
 
 ## 🏆 Achievements 🏅
 
-📅 09/2023 🥇 1st of the Dojo Game Jam first edition 🏷️ [zKnight](https://github.com/z-korp/zknight)
+📅 11/2023 🥇 1st of the Dojo Game Jam second edition 🏷️ [zDefender](https://github.com/z-korp/zdefender-contracts)
+
+📅 09/2023 🥇 1st of the Dojo Game Jam first edition 🏷️ [zKnight](https://github.com/z-korp/zknight-contracts)
 
 📅 07/2023 🥇 1th in the Node Guardians CTF 📍 Paris
 
