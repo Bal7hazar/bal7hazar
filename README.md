@@ -23,7 +23,7 @@
 
 📅 02/2023 🏅 Finalist of the Starknet Hacker House 📍 Tel-Aviv 🏷️ [Sybil Shield](https://github.com/carbonable-labs/sybil-shield)
 
-📅 02/2023 🏆 6th in the Starknet CC CTF 📍 Lisbon
+📅 10/2022 🏆 6th in the Starknet CC CTF 📍 Lisbon
 
 ## ⚒️ About me 🎮
 
