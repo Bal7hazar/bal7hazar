@@ -11,17 +11,17 @@
 
 ## 🏆 Achievements 🏅
 
-📅 11/2023 🥇 1st of the Dojo Game Jam second edition 🏷️ [zDefender](https://github.com/z-korp/zdefender-contracts)
+📅 11/2023 🥇 1st at Dojo Game Jam #2 🏷️ [zDefender](https://github.com/z-korp/zdefender-contracts)
 
-📅 09/2023 🥇 1st of the Dojo Game Jam first edition 🏷️ [zKnight](https://github.com/z-korp/zknight-contracts)
+📅 09/2023 🥇 1st at Dojo Game Jam #1 🏷️ [zKnight](https://github.com/z-korp/zknight-contracts)
 
-📅 07/2023 🥇 1st in the Node Guardians CTF 📍 Paris
+📅 07/2023 🥇 1st at Node Guardians CTF 📍 Paris
 
-📅 07/2023 🏅 Finalist of the Starknet Hacker House 📍 Paris 🏷️ [Pufu](https://github.com/carbonable-labs/pufu)
+📅 07/2023 🏅 Finalist at the Starknet Hacker House 📍 Paris 🏷️ [Pufu](https://github.com/carbonable-labs/pufu)
 
-📅 06/2023 🏆 Competitor in the first Pragma Hackathon 🏷️ [Explore](https://github.com/StarkExplore/Explore)
+📅 06/2023 🏆 Competitor at Pragma Hackathon #1 🏷️ [Explore](https://github.com/StarkExplore/Explore)
 
-📅 02/2023 🏅 Finalist of the Starknet Hacker House 📍 Tel-Aviv 🏷️ [Sybil Shield](https://github.com/carbonable-labs/sybil-shield)
+📅 02/2023 🏅 Finalist at Starknet Hacker House 📍 Tel-Aviv 🏷️ [Sybil Shield](https://github.com/carbonable-labs/sybil-shield)
 
 📅 10/2022 🏆 6th in the Starknet CC CTF 📍 Lisbon
 
