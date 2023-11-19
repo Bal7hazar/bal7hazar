@@ -15,7 +15,7 @@
 
 📅 09/2023 🥇 1st of the Dojo Game Jam first edition 🏷️ [zKnight](https://github.com/z-korp/zknight-contracts)
 
-📅 07/2023 🥇 1th in the Node Guardians CTF 📍 Paris
+📅 07/2023 🥇 1st in the Node Guardians CTF 📍 Paris
 
 📅 07/2023 🏅 Finalist of the Starknet Hacker House 📍 Paris 🏷️ [Pufu](https://github.com/carbonable-labs/pufu)
 
