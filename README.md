@@ -11,6 +11,8 @@
 
 ## 🏆 Achievements 🏅
 
+📅 04/2024 🥇 1st at Dojo Game Jam #4 🏷️ [zKlash](https://github.com/z-korp/zklash)
+
 📅 11/2023 🥇 1st at Dojo Game Jam #2 🏷️ [zDefender](https://github.com/z-korp/zdefender-contracts)
 
 📅 09/2023 🥇 1st at Dojo Game Jam #1 🏷️ [zKnight](https://github.com/z-korp/zknight-contracts)
